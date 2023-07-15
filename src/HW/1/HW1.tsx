@@ -13,7 +13,6 @@ export const HW1 = () => {
     // ❗ Массив с данными не трогаем!
     // ❗ id на элементах не удаляем и не изменяем! Они нужны для автотестов.
     // Если нужно подставить элемент массива в id, то подставляем по аналогии с другими элементами!
-sdasds
     const users = [
         {id: 1, name: 'John', age: 25, address: {street: '123 Main St', city: 'New York'}},
         {id: 2, name: 'Alice', age: 30, address: {street: '456 Elm St', city: 'San Francisco'}},
